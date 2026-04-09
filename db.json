@@ -11,9 +11,14 @@
       "nom": "JOUR(S)"
     },
 	 {
+      "uid": "7053a8af-4890-4098-80ff-378d0a5c2860",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+      "nom": "FORFAIT(S)"
+    },
+	 {
       "uid": "6ab6cda3-6a3c-4121-85a6-0dfd8e501a74",
       "uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
-      "nom": "FORFAIT"
+      "nom": "FORFAIT(S)"
     }
   ]
 }
