@@ -16,6 +16,11 @@
       "nom": "HAUTEUR"
     },
 	 {
+      "uid": "e2b5e6bf-9150-47df-979d-d7b527bb4f7c",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+      "nom": "NOMBRE"
+    },
+	 {
       "uid": "04468d2c-570e-46e3-92f1-c190974f16b0",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "nom": "JOUR(S)"
