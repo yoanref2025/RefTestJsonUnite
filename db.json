@@ -3,7 +3,17 @@
     {
       "uid": "06698629-3142-4214-9066-c35f58e324e7",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-      "nom": "ML"
+      "nom": "METRE LINEAIRE"
+    },
+	 {
+      "uid": "b11fef3c-429b-4816-8243-e90e23b96920",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+      "nom": "PROFONDEUR"
+    },
+	 {
+      "uid": "4ead9e01-1648-4c2c-8aa6-d04fbc2400b9",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+      "nom": "HAUTEUR"
     },
 	 {
       "uid": "04468d2c-570e-46e3-92f1-c190974f16b0",
