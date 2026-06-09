@@ -11,6 +11,11 @@
       "nom": "METRE(S) LINEAIRE(S)"
     },
 	 {
+      "uid": "a3842650-0bdd-4af3-b272-c5a58b8baf6c",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+      "nom": "STAND"
+    },
+	 {
       "uid": "b11fef3c-429b-4816-8243-e90e23b96920",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "nom": "PROFONDEUR(S)"
